@@ -1,0 +1,33 @@
+body {
+    background-color: lawngreen;
+}
+
+.move {
+    float: right;
+    right: 700px;
+}
+
+.img {
+    width: 500px;
+    right: 750px;
+}
+
+.a {
+    font-size: 20px;
+}
+.q {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.q i {
+    float: right;
+}
+
+.q span {
+    color: #ff7700;
+}
